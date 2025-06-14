@@ -11,3 +11,5 @@ Generated documentation for debug_converter.
 # PR Merge: 2025-10-20 - fix/merge-2959
 
 # PR Merge: 2025-10-20 - fix/merge-8519
+
+# PR Merge: 2025-10-20 - feature/merge-6461
