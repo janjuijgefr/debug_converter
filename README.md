@@ -10,3 +10,5 @@ Currently, two official extensions are available:
 # PR Merge: 2025-10-20 - feature/merge-7086
 
 # PR Merge: 2025-10-20 - docs/merge-8969
+
+# PR Merge: 2025-10-20 - feature/merge-3093
